@@ -21,6 +21,6 @@ func main() {
 	if err != nil {
 		fmt.Println(err)
 	} else {
-		fmt.Println("Sayi degeri:", f)
+		fmt.Println("Sayi degeri :", f)
 	}
 }
